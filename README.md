@@ -1,10 +1,10 @@
-## Hi there 👋
-# 💫 About Me:
+### Hi there 👋
+## 💫 About Me:
 I'm a mechanical engineering student at Bogazici University 🎓<br><br>I'm 20 years old<br><br>I like discovering new places, tasting food from different countries, and <br>taking photos with my camera 💯
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/barang%C3%BCrbulak/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/barangürbulak) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
